@@ -6,7 +6,7 @@
       Welcome to your Vue.js app!
     </p>
     <p>
-      To get a better understanding of how this boilerplate works, check out
+      To get a better understanding of how this boilerplate works, check out22
       <a href="http://vuejs-templates.github.io/webpack" target="_blank">its documentation</a>.
       It is also recommended to go through the docs for
       <a href="http://webpack.github.io/" target="_blank">Webpack</a> and
